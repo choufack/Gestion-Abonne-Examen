@@ -29,6 +29,7 @@ class abonne extends Model
         'Telephone',
 		'Email',
 	];
+	
 
 	public function motivation()
 	{
